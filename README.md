@@ -1,11 +1,6 @@
 # Shitcord-Fix
 Jank fix to patch Discord emote searching.
 
-# Before following this tutorial
-
-I'd recommend checking this out before, and see if that fixes your issue.
-https://www.reddit.com/r/discordapp/comments/186fmrx/comment/kb80vfr/
-
 ## How to use the fix
 
 > Download and install fiddler classic from https://www.telerik.com/fiddler/fiddler-classic
