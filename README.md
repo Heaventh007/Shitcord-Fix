@@ -55,5 +55,5 @@ if (oSession.uriContains(OriginalURL)) {
     oSession.url.Replace(OriginalURL, oSession.fullUrl);
 }
 ```
-### For the Discord app
+### When all the steps are completed
 **In the discord app, hold CTRL and press R, this will reload all of Discord's dependencies.**
