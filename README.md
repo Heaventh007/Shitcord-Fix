@@ -1,3 +1,5 @@
+# Discord seems to have fixed this bug, let's hope it stays that way!
+
 # Shitcord-Fix
 Jank fix to patch Discord emote searching.
 
